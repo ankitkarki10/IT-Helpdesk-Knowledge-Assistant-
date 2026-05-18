@@ -467,7 +467,6 @@ MIT
 
 ---
 
-**Built with ❤️ for enterprise AI systems**
 
 ```mermaid
 graph TD;
