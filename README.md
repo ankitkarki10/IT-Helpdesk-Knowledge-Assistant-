@@ -610,17 +610,6 @@ Run a full evaluation on the agent router using the pre-configured edge cases an
 }
 ```
 
-## Screenshots and Demo
-
-### Screenshots
-*Placeholders for actual project screenshots:*
-![FastAPI Swagger UI](https://via.placeholder.com/800x400?text=Swagger+UI+/docs)
-![Evaluation Summary](https://via.placeholder.com/800x400?text=Evaluation+Summary+Output)
-
-### Demo Video
-*Placeholder for project demo video:*
-[![Demo Video](https://via.placeholder.com/800x400?text=Click+to+Play+Demo+Video)](#)
-
 ## Code Quality Standards
 
 This project enforces strict modularity:
